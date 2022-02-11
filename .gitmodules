@@ -1,0 +1,6 @@
+[submodule "eochat-frontend"]
+	path = frontend
+	url = git@github.com:p-schlickmann/eochat-frontend
+[submodule "eochat-backend"]
+	path = backend
+	url = git@github.com:p-schlickmann/eochat-backend
