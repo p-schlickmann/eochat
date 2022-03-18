@@ -1,1 +1,1 @@
-# Eochat!
+# https://eochat-frontend.vercel.app
